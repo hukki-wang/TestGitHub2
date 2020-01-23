@@ -1,3 +1,4 @@
+stash bug
 merge no ff
 stash
 Creating a new branch is quick & simple.
